@@ -174,6 +174,9 @@ Then open:
 http://localhost:8501
 ⚠️ Important Limitation
 
+You can visit:
+https://ai-content-intelligence-engine.streamlit.app/
+
 The recommendation and engagement results are based on synthetic data and offline evaluation.
 
 The observed metric improvements should therefore not be interpreted as causal online product impact.
